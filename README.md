@@ -5,6 +5,8 @@
 * This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 + Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+**Live URL:-** https://qr-component-design.netlify.app/
+
 **ScreenShots**
 - Desktop View
 ![Screenshot 2023-06-15 001221](https://github.com/aratidsa/QR-Code-Component/assets/128802362/83e531fb-e999-441b-89ad-378a3cc99fc8)
