@@ -2,7 +2,7 @@
 **Frontend Mentor Challenge - QR Code Component - Solution**
 
 - I have built QR Code Component using HTML and CSS – Flex.
-* This is a solution to the QR code component challenge on Frontend Mentor.
+* This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-dRMI0mAk9Q).
 + Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 **Live URL:-** [https://qr-component-design.netlify.app](https://qr-component-design.netlify.app/)/
