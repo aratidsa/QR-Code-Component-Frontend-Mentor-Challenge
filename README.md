@@ -5,7 +5,7 @@
 * This is a solution to the QR code component challenge on Frontend Mentor.
 + Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-**Live URL:-** https://qr-component-design.netlify.app/
+**Live URL:-** [https://qr-component-design.netlify.app](https://qr-component-design.netlify.app/)/
 
 **ScreenShots**
 - Desktop View
