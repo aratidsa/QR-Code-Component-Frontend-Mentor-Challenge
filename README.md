@@ -1,4 +1,4 @@
-# QR-Code-Component
+# Frontend Mentor Challenge : QR-Code-Component
 **Frontend Mentor Challenge - QR Code Component - Solution**
 
 - I have built QR Code Component using HTML and CSS – Flex.
